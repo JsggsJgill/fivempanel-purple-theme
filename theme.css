@@ -1,0 +1,257 @@
+body, html {
+	background: #3b3b3b !important;
+}
+.main-panel > .content {
+	background: #3b3b3b;
+}
+.card, .overlay-user-container {
+	background-color: #1b1a1d;
+	color: #FFF;
+	border: 1px solid #6000ff;
+}
+.card .title {
+	color: #FFF;
+}
+.navbar-default {
+	background-color: #1b1a1d;
+	border-bottom: 1px solid #6000ff;
+}
+.alert-danger {
+	background: #6000ff;
+}
+.form-control {
+	background: #19181b;
+	border: 1px solid #6000ff;
+	color: #CCC;
+}
+.form-control:focus {
+	background: #19181b;
+	border: 1px solid #6000ff;
+	color: #CCC;
+}
+.form-control[readonly] {
+	background: #19181b;
+	border: 1px solid #6000ff;
+}
+input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+input[type="number"] {
+	-moz-appearance: textfield;
+}
+.main-panel > .footer {
+	background-color: #1b1a1d;
+	border-top: 1px solid #6000ff;
+}
+.card .description {
+	color: #CCC;
+}
+.card-user .avatar.border-gray {
+	border-color: #6000ff;
+}
+.tab-content {
+	border-left: 1px solid #6000ff;
+	border-right: 1px solid #6000ff;
+	border-bottom: 1px solid #6000ff;
+}
+.info-tiles-warns .tiles-heading {
+	background: #4cd787 !important;
+}
+.info-tiles-warns .tiles-body {
+	background: #2ecc71 !important;
+}
+.info-tiles-warns .tiles-body-alt {
+	background: #2ecc71 !important;
+}
+.info-tiles-warns .tiles-footer {
+	background: #2abb68 !important;
+}
+.info-tiles-warns:hover {
+	color: #ffffff !important;
+}
+.info-tiles-warns:hover .tiles-heading {
+	background: #33d176 !important;
+}
+.info-tiles-warns:hover .tiles-body {
+	background: #29b765 !important;
+}
+.info-tiles-warns:hover .tiles-body-alt {
+	background: #29b765 !important;
+}
+.info-tiles-warns:hover .tiles-footer {
+	background: #26a75c !important;
+}
+.info-tiles-kicks {
+	color: #ffffff !important !important;
+}
+.info-tiles-kicks .tiles-heading {
+	background: #f3cd36 !important;
+}
+.info-tiles-kicks .tiles-body {
+	background: #f1c40f !important;
+}
+.info-tiles-kicks .tiles-body-alt {
+	background: #f1c40f !important;
+}
+.info-tiles-kicks .tiles-footer {
+	background: #dfb50d !important;
+}
+.info-tiles-kicks:hover {
+	color: #ffffff !important;
+}
+.info-tiles-kicks:hover .tiles-heading {
+	background: #f2c619 !important;
+}
+.info-tiles-kicks:hover .tiles-body {
+	background: #dab10d !important;
+}
+.info-tiles-kicks:hover .tiles-body-alt {
+	background: #dab10d !important;
+}
+.info-tiles-kicks:hover .tiles-footer {
+	background: #c7a10c !important;
+}
+.info-tiles-bans {
+	color: #ffffff !important !important;
+}
+.info-tiles-bans .tiles-heading {
+	background: #eb6d60 !important;
+}
+.info-tiles-bans .tiles-body {
+	background: #e74c3c !important;
+}
+.info-tiles-bans .tiles-body-alt {
+	background: #e74c3c !important;
+}
+.info-tiles-bans .tiles-footer {
+	background: #e53b2a !important;
+}
+.info-tiles-bans:hover {
+	color: #ffffff !important;
+}
+.info-tiles-bans:hover .tiles-heading {
+	background: #e85445 !important;
+}
+.info-tiles-bans:hover .tiles-body {
+	background: #e43725 !important;
+}
+.info-tiles-bans:hover .tiles-body-alt {
+	background: #e43725 !important;
+}
+.info-tiles-bans:hover .tiles-footer {
+	background: #da2d1b !important;
+}
+.info-tiles-online {
+	color: #ffffff !important !important;
+}
+.info-tiles-online .tiles-heading {
+	background: #58cbc2 !important;
+}
+.info-tiles-online .tiles-body {
+	background: #3bbfb4 !important;
+}
+.info-tiles-online .tiles-body-alt {
+	background: #3bbfb4 !important;
+}
+.info-tiles-online .tiles-footer {
+	background: #36afa5 !important;
+}
+.info-tiles-online:hover {
+	color: #ffffff !important;
+}
+.info-tiles-online:hover .tiles-heading {
+	background: #40c4b9 !important;
+}
+.info-tiles-online:hover .tiles-body {
+	background: #35aca2 !important;
+}
+.info-tiles-online:hover .tiles-body-alt {
+	background: #35aca2 !important;
+}
+.info-tiles-online:hover .tiles-footer {
+	background: #309c93 !important;
+}
+.info-tiles-online {
+	color: #ffffff !important !important;
+}
+.info-tiles-online .tiles-heading {
+	background: #57aae1 !important;
+}
+.info-tiles-online .tiles-body {
+	background: #3498db !important;
+}
+.info-tiles-online .tiles-body-alt {
+	background: #3498db !important;
+}
+.info-tiles-online .tiles-footer {
+	background: #268fd5 !important;
+}
+.info-tiles-online:hover {
+	color: #ffffff !important;
+}
+.info-tiles-online:hover .tiles-heading {
+	background: #3d9cdd !important;
+}
+.info-tiles-online:hover .tiles-body {
+	background: #258cd1 !important;
+}
+.info-tiles-online:hover .tiles-body-alt {
+	background: #258cd1 !important;
+}
+.info-tiles-online:hover .tiles-footer {
+	background: #2280bf !important;
+}
+.sidebar:after, body > .navbar-collapse:after {
+	background: #490082 !important;
+	background: -moz-linear-gradient(top, #490082 0%, #000000 100%) !important;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #490082), color-stop(100%, #000000)) !important;
+	background: -webkit-linear-gradient(top, #490082 0%, #000000 100%) !important;
+	background: -o-linear-gradient(top, #490082 0%, #000000 100%) !important;
+	background: -ms-linear-gradient(top, #490082 0%, #000000 100%) !important;
+	background: linear-gradient(to bottom, #490082 0%, #000000 100%) !important;
+	background-size: 150% 150% !important;
+}
+.table-bordered {
+	border: 1px solid #6000ff;
+}
+.table-bordered > thead > tr > th {
+	color: #FFF;
+}
+.odd {
+	background-color: #19181b !important;
+}
+.even {
+	background-color: #1d1a1a !important;
+}
+.alert {
+	border-radius: 4px;
+}
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+	border: 1px solid #6000ff;
+}
+.table-striped > tbody > tr {
+	background: #323232 !important;
+}
+.table-striped > thead > tr > th {
+	border-bottom: 1px solid #6000ff;
+}
+.label-danger {
+	background: #6000ff;
+}
+.nav-tabs {
+	border-bottom: 1px solid #6000ff;
+}
+.themeauthor {
+	text-indent: -9999px;
+	line-height: 0;
+	position: absolute;
+	visibility: hidden;
+}
+.themeauthor::after {
+	content: "Jay G.#5258";
+	text-indent: 0;
+	display: block;
+	line-height: initial;
+	visibility: visible;
+}

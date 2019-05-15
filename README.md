@@ -1,1 +1,0 @@
-# fivempanel-purple-theme
